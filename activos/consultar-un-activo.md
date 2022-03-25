@@ -1,0 +1,2 @@
+# Consultar un Activo
+

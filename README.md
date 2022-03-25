@@ -1,21 +1,21 @@
-# Welcome!
+# Bienvenido a Fracttal
 
-## Welcome to MyAPI
+¡Bienvenida/o a Fracttal! Aquí encontrarás soluciones basadas en tecnologías de punta como Cloud, Mobile, IoT, Machine Learning e Inteligencia Artificial, para mantenimiento con tres productos principales.&#x20;
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+Te ofrecemos toda la documentación para que puedas llevar a cabo una buena implementación de las APIS.
 
-## Want to jump right in?
+{% hint style="info" %}
+Actualización V.15244784
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
-{% endcontent-ref %}
+{% endhint %}
 
-## Want to deep dive?
+## Fracttal One
 
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
+Fracttal One es un software inteligente para la gestión de mantenimiento de activos físicos CMMS/GMAO, 100% móvil, online y en la nube. Ayuda a empresas de diferentes sectores y tamaños a realizar un seguimiento de sus operaciones, gestionar órdenes de trabajo, equipos y proveedores desde una sola plataforma. Planifica, asigna, ejecuta e informa todas las tareas y los KPIs directamente a los técnicos o proveedores desde la App. Sin importar que dispositivo uses, Fracttal One, te brinda una accesibilidad total y la mejor experiencia. Realiza una gestión de mantenimiento sostenible, segura y eficiente, y únete al futuro del mantenimiento.
 
-{% content-ref url="reference/api-reference/" %}
-[api-reference](reference/api-reference/)
-{% endcontent-ref %}
+![](<.gitbook/assets/Captura de Pantalla 2022-03-25 a la(s) 09.45.08.png>)
+
+### ¿Quién usa Fracttal?
+
+Fracttal One está diseñado tanto para grandes multinacionales como para PYMES de diversos sectores productivos. Contamos con gran presencia en industrias de manufactura, facility management, transporte, educación, energía, entre otras.
